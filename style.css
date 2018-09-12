@@ -36,7 +36,7 @@ body
 
     display: flex;
     justify-content: space-around;
-    
+    align-items: center;
     color:white;
     border-bottom: white 1px solid;
     height: 108px;
@@ -63,8 +63,8 @@ body
 
 .menu-wrapper
 {
-
-
+    display: flex;
+    align-items: stretch;
 
 
 }
