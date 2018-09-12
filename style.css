@@ -33,8 +33,11 @@ body
 
 .header
 {
-    color:white;
+
     display: flex;
+    justify-content: space-around;
+    
+    color:white;
     border-bottom: white 1px solid;
     height: 108px;
     font-family: Arial;
@@ -51,19 +54,18 @@ body
 .logo
 {
 
-flex:3;
+
     font-size: 30px;
-    padding-left: 400px;
-    padding-top:35px ;
+
 
 
 }
 
 .menu-wrapper
 {
-    display: flex;
-flex:3;
-    padding: 40px ;
+
+
+
 
 }
 
@@ -71,6 +73,38 @@ flex:3;
 {
     color:black
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .page-1
 {
