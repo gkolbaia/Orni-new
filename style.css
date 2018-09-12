@@ -131,6 +131,7 @@ flex:3;
     margin-top: 100px;
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
 
 }
 
@@ -140,6 +141,7 @@ flex:3;
 {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .pictures-2
 {
@@ -147,6 +149,7 @@ flex:3;
     justify-content: center;
     position: relative;
     bottom:4px;
+    flex-wrap: wrap;
 }
 
 
@@ -219,7 +222,40 @@ flex:3;
 
 
 
+.footer
+{
+ margin-top:100px;
 
+}
+
+.footer-1
+{
+
+    display: flex;
+    justify-content: center;
+    width:100%;
+    background-color: black;
+    margin-top:100px;
+
+}
+.footer
+{
+    padding-bottom: 20px;
+}
+.social-network-wrapper
+
+{
+
+   text-align: center;
+
+
+}
+
+
+.copyright-wrapper
+{
+    color:white;
+}
 
 
 
